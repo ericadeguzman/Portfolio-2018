@@ -1,0 +1,8 @@
+[05-Feb-2018 08:52:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/hipstev5/public_html/ericadeguzman/wp-content/themes/portfolio/single.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/hipstev5/public_html/ericadeguzman/wp-content/themes/portfolio/single.php on line 8
+[05-Feb-2018 08:52:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/hipstev5/public_html/ericadeguzman/wp-content/themes/portfolio/single.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/hipstev5/public_html/ericadeguzman/wp-content/themes/portfolio/single.php on line 8
